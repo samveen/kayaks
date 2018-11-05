@@ -1,0 +1,22 @@
+# Sea Tour 15
+#https://biber-boote.ch/yostwerks/SeaTour15off.html
+#Sec	KHAB	CHB	CHAB	GHB	GHAB	DHAB	DHB
+1	.090	.358	.240	.531	.684	.867
+2	.032	.608	.152	.788	.606	.893
+3	.004	.720	.108	.904	.565	.916
+4	.007	.681	.107	.863	.561	.835
+5	.027	.566	.135	.741	.584	.811
+6	.063	.370	.189	.531	.629	.788
+#Notes:
+#    HB - Half Breadth
+#    HAB - Height above Baseline
+#    K - Keel
+#    C - Chines
+#    G - Gunwale
+#    D - Deckridge
+#
+#    All measurements in cms
+#    DHAB is rare (ahead of rider)
+#    DHB exists only for one section right in front of rider
+#    Order of DHB and DHAB is reversed as compared to other HB,HAB pairs
+#    Keel Half Breadth for all sections is 0

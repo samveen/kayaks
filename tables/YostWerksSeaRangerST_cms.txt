@@ -1,0 +1,23 @@
+# Sea Ranger - ST
+# https://biber-boote.ch/yostwerks/SeaRangerSTSpecs.html
+#Sec	KHAB	CHB	CHAB	GHB	GHAB	DHAB	DHB
+1	2.713	5.669	5.334	14.417	19.263	25.420	
+2	1.341	12.588	4.115	19.903	17.526	26.030	
+3	0.457	17.160	3.292	22.647	16.276	26.700	
+4	0	19.721	2.833	24.567	15.423	27.432	6.096	
+5	0.335	18.745	3.018	23.195	15.301	21.580	16.002	
+6	1.250	14.508	3.749	20.330	16.093	21.580	9.906	
+7	2.713	7.437	5.029	14.417	17.617	21.580	3.81	
+#Notes:
+#    HB - Half Breadth
+#    HAB - Height above Baseline
+#    K - Keel
+#    C - Chines
+#    G - Gunwale
+#    D - Deckridge
+#
+#    All measurements in cms
+#    DHAB is rare (ahead of rider)
+#    DHB exists only for one section right in front of rider
+#    Order of DHB and DHAB is reversed as compared to other HB,HAB pairs
+#    Keel Half Breddth for all sections is 0

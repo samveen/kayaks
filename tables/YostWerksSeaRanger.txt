@@ -1,0 +1,29 @@
+#https://biber-boote.ch/yostwerks/Offsetsc.html
+Name: Sea Ranger
+# Specs: LOA - 17.0ft, Beam - 49.5cm, Chine - 40cm, Displacement - 200lbs
+# Cross Section Spacing
+# <Bow> 36" <1> 18" <2> 18" <3> 27" <4> 22" <5> 13.6" <6> 16.6" <7> 16.6" <8> 36" <Stern>
+#Spacing: Bow = 0.0', 1 = 3.0', 2 = 4.5', 3 = 6.0', 4 = 8.25', 5 = 10.083', 6 = 11.217', 7 = 12.6', 8 = 13.983', Stern = 17.0'
+Spacing: 0.00, 91.44, 137.16, 182.88, 251.46, 307.34, 341.884, 384.048, 426.212, 517.652
+# Offsets
+#Sec	KHAB	CHB	CHAB	GHB	GHAB	DHB	DHAB
+1	2.7	5.7	5.3	14.4	19.3	0.0	0.00
+2	1.3	12.6	4.1	19.3	17.5	0.0	21.2
+3	0.5	17.2	3.3	22.6	16.3	0.0	23.3
+4	0.0	19.9	2.8	24.7	15.3	6.1	26.1
+5	0.2	19.2	2.9	24.2	15.3	0.0	0.00
+6	0.8	16.8	3.4	22.2	15.6	0.0	0.00
+7	1.6	12.9	4.1	19	16.4	0.0	0.00
+8	2.7	7.4	5.0	14.4	17.6	0.0	0.00
+#Notes:
+#    HB - Half Breadth
+#    HAB - Height above Baseline
+#    K - Keel
+#    C - Chines
+#    G - Gunwale
+#    D - Deckridge
+#
+#    All measurements in cms
+#    DHAB is rare (ahead of rider)
+#    DHB exists only for one section right in front of rider
+#    Keel Half Breadth for all sections is 0
